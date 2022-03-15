@@ -1,1 +1,1 @@
-This is an instruction manual for our project.
+This is a demo project for learning Github.
